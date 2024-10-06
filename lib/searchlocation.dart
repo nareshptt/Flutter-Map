@@ -77,7 +77,7 @@ class _SearchlocationScreenState extends State<SearchlocationScreen> {
                       child: TextFormField(
                         controller: _cityController,
                         decoration: InputDecoration(
-                          suffixIcon: Icon(Icons.search),
+                          suffixIcon: Icon(Icons.location_on),
                           border: InputBorder.none,
                           hintText: 'Enter location',
                         ),
