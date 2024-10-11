@@ -17,7 +17,7 @@ This Flutter app allows users to input a location on the first screen and view t
 
 # Technologies Used
 - **Flutter**: For building the user interface.
-- **Maps API**: To display the map and the entered location (choose any suitable package like `google_maps_flutter` or `flutter_map`).
+- **Maps API**: To display the map and the entered location (choose any suitable package like `google_maps_flutter` or `flutter_map`.
 
 ## How It Works
 1. The user inputs a location on the first screen.
